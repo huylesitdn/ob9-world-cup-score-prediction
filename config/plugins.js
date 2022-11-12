@@ -1,5 +1,10 @@
-module.exports = () => {
+module.exports = ({env}) => {
   return {
-      ckeditor: true
+    ckeditor: true,
+    'strapi-plugin-populate-deep': {
+      config: {
+        defaultDepth: 3, // Default is 5
+      }
+    },
   }
 }
