@@ -151,6 +151,18 @@
         }
       },
       "type": "string"
+    },
+    "prediction_here_img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }
