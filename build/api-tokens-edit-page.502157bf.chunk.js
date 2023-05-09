@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkworld_cup_score_prediction=self.webpackChunkworld_cup_score_prediction||[]).push([[92],{28465:(r,t,e)=>{e.r(t),e.d(t,{default:()=>i});var _=e(67294),s=e(68547),o=e.n(s),n=e(87751),E=e(67375);const i=()=>_.createElement(s.CheckPagePermissions,{permissions:n.Z.settings["api-tokens"].read},_.createElement(E.Z,null))}}]);
